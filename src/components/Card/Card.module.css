@@ -1,0 +1,12 @@
+.container {
+  background-color: var(--cinza);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: .5em;
+  width: 202px;
+  padding: 0 0 1em 0;
+}
+.capa {
+  width: 300px;
+}
