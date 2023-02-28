@@ -4,9 +4,15 @@
   flex-direction: column;
   justify-content: space-between;
   margin-top: .5em;
-  width: 202px;
+  width: 282px;
   padding: 0 0 1em 0;
 }
 .capa {
-  width: 300px;
+  width: 100%;
+}
+.container h2, .favoritar {
+  padding: 0 1em;
+}
+.favoritar {
+  width: 25px;
 }
