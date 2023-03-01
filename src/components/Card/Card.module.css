@@ -15,4 +15,9 @@
 }
 .favoritar {
   width: 25px;
+  cursor: alias;
+}
+.link {
+  text-decoration: none;
+  color: var(--preto);
 }
