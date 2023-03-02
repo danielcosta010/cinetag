@@ -18,6 +18,8 @@
   cursor: alias;
 }
 .link {
-  text-decoration: none;
   color: var(--preto);
+  text-align: left;
+  text-decoration: none;
+
 }
